@@ -120,3 +120,4 @@ References
 ----------
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to Algorithms (4th ed.). MIT Press.
 BIT 4105 Course Notes and Reader, Chapters 3 and 23.
+Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai
